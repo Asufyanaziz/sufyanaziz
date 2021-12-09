@@ -4,7 +4,7 @@
 ![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-lightgray)
 [![Visits](https://komarev.com/ghpvc/?username=sufyanaziz&label=Profile%20visits&color=red&style=flat)](https://github.com/novatorem)
 
-Hi, I'm **Achmad Sufyan Aziz**. I'm a College Student and Junior Web Developer from Indonesia. <br/>
+Hi, I'm **Achmad Sufyan Aziz**. I'm a Junior Web Developer from Indonesia. <br/>
 I like to write code using **react js** and **node js**
 
 <!-- - 🔭 I’m currently working on ... -->
@@ -15,6 +15,12 @@ I like to write code using **react js** and **node js**
 - 💬 Ask me about anything in my project
 - ✔️ I've completed 2 projects with clients (React and Node)
 - ⚡ Fun fact: I love to play game 🎮
+
+## Work Experience
+
+- **Waresix** as an intern frontend engineer (Nov 2021 - Now)
+- **BPTI Uhamka** as an intern web developer (Jan 2021 - Sept 2021)
+- **Freelancer** as a web developer (Jan 2021 - Sept 2021)
 
 ## Languages and Tools 💻
 
